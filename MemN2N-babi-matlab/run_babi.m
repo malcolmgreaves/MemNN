@@ -5,7 +5,7 @@
 % LICENSE file in the root directory of this source tree. An additional grant 
 % of patent rights can be found in the PATENTS file in the same directory.
 
-rng('shuffle')
+% rng('shuffle')
 addpath nn;
 addpath memory;
 base_dir = 'tasks_1-20_v1-2 2/en/'; % path to data
