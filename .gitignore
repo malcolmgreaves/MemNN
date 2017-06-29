@@ -1,0 +1,33 @@
+
+# Editor
+*.swp
+
+# Python
+*.pyc
+
+# JVM
+*.class
+*.log
+*.swp
+project/target
+.idea*
+*.DS_Store
+
+# sbt
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# OS
+.DS_Store
+
